@@ -1,0 +1,25 @@
+G:\labs\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.exe.config
+G:\labs\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.exe
+G:\labs\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.pdb
+G:\labs\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.csprojResolveAssemblyReference.cache
+G:\labs\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.exe
+G:\labs\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.pdb
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.exe.config
+E:\labs\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.exe
+E:\labs\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.pdb
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.exe
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.pdb
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\mscorlib.dll
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\ru\mscorlib.resources.dll
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\normidna.nlp
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\normnfc.nlp
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\normnfd.nlp
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\normnfkc.nlp
+E:\labs\lab1.Csh\lab1.Csh\bin\Debug\normnfkd.nlp
+E:\labs\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.csprojResolveAssemblyReference.cache
+H:\C# лабы\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.exe.config
+H:\C# лабы\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.exe
+H:\C# лабы\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.pdb
+H:\C# лабы\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.exe
+H:\C# лабы\lab1.Csh\lab1.Csh\bin\Debug\lab1.Csh.pdb
+H:\C# лабы\lab1.Csh\lab1.Csh\obj\Debug\lab1.Csh.csprojResolveAssemblyReference.cache
